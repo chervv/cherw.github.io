@@ -1,0 +1,53 @@
+750 × 1334
+
+@media screen and (max-width: 750px){
+.menu-link{
+	font-size: 0.5em;
+	padding: 10px 6px;
+	margin: 0 3px ;
+}
+.logo{
+	font-size: 1.4em;
+}
+.searcher{
+	font-size: 1em;
+	padding-left: 10px;
+	width: 60%;
+}
+.face{
+
+}
+.header{
+	background: red;
+}
+}	
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+.menu-link{
+	font-size: 0.5em;
+	padding: 10px 5px;
+	margin: 0 3px;
+}
+.logo{
+	font-size: 1em;
+}
+.searcher{
+	font-size: 0.6em;
+	padding-left: 10px;
+	width: 14%;
+}
+.face{
+	background-position: center;
+}
+}	
+
+
